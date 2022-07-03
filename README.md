@@ -9,7 +9,7 @@ Just kills the Razer app, no changing services.
 
 # To do List
 
-* Finish the rest of the razer app
+* Finish the rest of Razer's apps
 
 * Get THX Spatial Audio headphones
 
