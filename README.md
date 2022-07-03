@@ -11,5 +11,5 @@ Just kills the Razer app, no changing services.
 
 * Finish the rest of Razer's apps
 
-* Get THX Spatial Audio headphones
+* Get THX Spatial Audio headphones 
 
