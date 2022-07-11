@@ -7,9 +7,8 @@ A bat file that kills Razer Synapse's services then sets them to manual.
 
 Just kills the Razer app, no changing services.
 
-# To do List
+# Suggestions
 
-* Finish the rest of Razer's apps
-
-* Get THX Spatial Audio headphones 
+After installing Razer Synapse it's best to uninstall after applying your settings and just use on board memeory.
+This is if you would like to keep it installed but not have it running in the background.
 
