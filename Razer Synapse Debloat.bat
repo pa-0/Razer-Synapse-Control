@@ -7,6 +7,7 @@ taskkill /f /im "Razer Central.exe"
 taskkill /f /im "RzSDKServer.exe"
 taskkill /f /im "RzSDKService.exe"
 taskkill /f /im "RzChromaStreamServer.exe"
+taskkill /f /im "CefSharp.BrowserSubprocess.exe"
 net stop RzActionSvc /y
 sc config RzActionSvc start=demand
 Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Synapse Service" /v "Start" /t REG_DWORD /d "3" /f > nul 2>&3
