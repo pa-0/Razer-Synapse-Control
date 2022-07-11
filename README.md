@@ -9,6 +9,7 @@ Just kills the Razer app, no changing services.
 
 # Suggestions
 
-After installing Razer Synapse it's best to uninstall after applying your settings and just use on board memeory.
+After installing Razer Synapse it's best to uninstall after applying your settings and just use on board memeory. 
+
 This is if you would like to keep it installed but not have it running in the background.
 
