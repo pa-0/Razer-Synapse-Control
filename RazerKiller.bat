@@ -3,4 +3,7 @@ taskkill /f /im "Razer Synapse Service.exe"
 taskkill /f /im "Razer Synapse Service Process.exe"
 taskkill /f /im "GameManagerService.exe"
 taskkill /f /im "Razer Central.exe"
+taskkill /f /im "RzSDKServer.exe"
+taskkill /f /im "RzSDKService.exe"
+taskkill /f /im "RzChromaStreamServer.exe"
 net stop RzActionSvc /y
