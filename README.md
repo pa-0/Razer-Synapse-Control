@@ -11,7 +11,9 @@ Just kills the Razer app, no changing services. RunAsAdmin.
 
 After installing Razer Synapse uninstall Razer Synapse after applying your desired settings and use on board memeory.
 
-Lighter alternatives for RGB
+Disable Startup with TaskManager or Autoruns
+
+# Lighter alternatives for RGB
 
 OpenRGB: https://openrgb.org/
 
