@@ -1,4 +1,4 @@
-# Razer-Synapse-Debloat
+memory# Razer-Synapse-Debloat
 
 A bat file that kills Razer Synapse's services then sets them to manual. RunAsAdmin.
 
@@ -11,7 +11,7 @@ Just kills the Razer app, no changing services. RunAsAdmin.
 
 Disable Startup with TaskManager or Autoruns
 
-Use on board memeory.
+Use on board memory.
 
 # Lighter alternatives for RGB
 
