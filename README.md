@@ -18,3 +18,5 @@ Use on board memory.
 OpenRGB: https://openrgb.org/
 
 Aurora: https://www.project-aurora.com/
+
+If you have no problem using linux OpenRazer is the best application for Razer imo.
