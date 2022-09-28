@@ -11,7 +11,7 @@ Just kills the Razer app, no changing services. RunAsAdmin.
 
 Disable Startup with TaskManager or Autoruns
 
-Use on board memory.
+Use on board memory and uninstall Razer Synapses
 
 # Lighter alternatives for RGB
 
