@@ -7,7 +7,7 @@ A bat file that kills Razer Synapse's services and processes then sets them to m
 
 It simply terminates the Razer app; no services are changed. RunAsAdmin.
 
-# Suggestions
+## Suggestions
 
 Only install Synapse and uncheck everything else when installing.
 
@@ -16,7 +16,7 @@ Use TaskManager or Autoruns to disable startup and uncheck "Start when my PC boo
 Use on-board memory and uninstall Razer Synapses.
 
 
-# RGB lighter alternatives
+## RGB lighter alternatives
 
 OpenRGB: https://openrgb.org/
 
