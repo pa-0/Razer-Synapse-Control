@@ -13,6 +13,8 @@ Disable Startup with TaskManager or Autoruns
 
 Use on board memory and uninstall Razer Synapses
 
+Only install Synapse and uncheck everything else when installing.
+
 # Lighter alternatives for RGB
 
 OpenRGB: https://openrgb.org/
