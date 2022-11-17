@@ -8,6 +8,7 @@ taskkill /f /im "RzSDKServer.exe"
 taskkill /f /im "RzSDKService.exe"
 taskkill /f /im "RzChromaStreamServer.exe"
 taskkill /f /im "CefSharp.BrowserSubprocess.exe"
+taskkill /f /im "Razer Updater.exe"
 net stop RzActionSvc /y
 sc config RzActionSvc start=demand
 Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Synapse Service" /v "Start" /t REG_DWORD /d "3" /f > nul 2>&3
@@ -16,6 +17,7 @@ Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Game Man
 Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Chroma SDK Server" /v "Start" /t REG_DWORD /d "3" /f > nul 2>&3
 Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Chroma SDK Service" /v "Start" /t REG_DWORD /d "3" /f > nul 2>&3
 Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Chroma Stream Server" /v "Start" /t REG_DWORD /d "3" /f > nul 2>&3
+del /f/s/q "C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Updater.exe" >NUL 2>&1
 echo.
 echo Razer Synapses Debloated!
 echo.

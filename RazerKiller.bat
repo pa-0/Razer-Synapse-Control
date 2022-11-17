@@ -8,6 +8,7 @@ taskkill /f /im "RzSDKServer.exe"
 taskkill /f /im "RzSDKService.exe"
 taskkill /f /im "RzChromaStreamServer.exe"
 taskkill /f /im "CefSharp.BrowserSubprocess.exe"
+taskkill /f /im "Razer Updater.exe"
 net stop RzActionSvc /y
 echo.
 echo Razer Synapses Killed!
