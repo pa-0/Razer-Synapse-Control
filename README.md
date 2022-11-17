@@ -1,21 +1,22 @@
 # Razer-Synapse-Debloat
 
-A bat file that kills Razer Synapse's services and processes then sets them to manual. RunAsAdmin.
+A bat file that kills Razer Synapse's services and processes then sets them to manual RunAsAdmin
 
 
 # Razer-Killer
 
-Just kills the Razer app, no changing services. RunAsAdmin.
+It simply terminates the Razer app; no services are changed.RunAsAdmin.
 
 # Suggestions
 
-Disable Startup with TaskManager or Autoruns
-
-Use on board memory and uninstall Razer Synapses
-
 Only install Synapse and uncheck everything else when installing.
 
-# Lighter alternatives for RGB
+Use TaskManager or Autoruns to disable startup and uncheck "Start when my PC boots" inside the app.
+
+Use on-board memory and uninstall Razer Synapses.
+
+
+# RGB lighter alternatives
 
 OpenRGB: https://openrgb.org/
 
