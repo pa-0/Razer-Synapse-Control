@@ -1,11 +1,11 @@
 # Razer-Synapse-Debloat
 
-A bat file that kills Razer Synapse's services and processes then sets them to manual RunAsAdmin
+A bat file that kills Razer Synapse's services and processes then sets them to manual. RunAsAdmin.
 
 
 # Razer-Killer
 
-It simply terminates the Razer app; no services are changed.RunAsAdmin.
+It simply terminates the Razer app; no services are changed. RunAsAdmin.
 
 # Suggestions
 
