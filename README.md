@@ -7,7 +7,7 @@ Run as admin.
 
 # Razer-Killer
 
-It simply terminates the Razer app; no services are changed.
+Simply terminates the Razer app; no services are changed.
 
 Run as admin.
 
