@@ -19,6 +19,6 @@ Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Chroma S
 Reg.exe add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Razer Chroma Stream Server" /v "Start" /t REG_DWORD /d "3" /f > nul 2>&3
 del /f/s/q "C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Updater.exe" >NUL 2>&1
 echo.
-echo Razer Synapses Debloated!
+echo Razer Synapses Controlled!
 echo.
 pause
