@@ -1,11 +1,15 @@
 # Razer-Synapse-Control
 
-A bat file that kills Razer Synapse's services and processes then sets them to manual. RunAsAdmin.
+A bat file that kills Razer Synapse's services and processes then sets them to manual.
+
+Run as admin.
 
 
 # Razer-Killer
 
-It simply terminates the Razer app; no services are changed. RunAsAdmin.
+It simply terminates the Razer app; no services are changed.
+
+Run as admin.
 
 ## Suggestions
 
