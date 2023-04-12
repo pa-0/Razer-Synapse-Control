@@ -13,17 +13,24 @@ Run as admin.
 
 ## Suggestions
 
-Only install Synapse and uncheck everything else when installing.
+Razer Synapses
+  Only install Razer Synapse and uncheck everything else when installing.
+  Use a guest account unless you plan to use paid options like 7.1 surround sound.
+  Disable everything within the General and Dashboard options.
+  Turn off all RGB.
+  Use on-board memory and uninstall Razer Synapses if you don't need to change settings again.
+  
+Razer Centeral
+  Right click the tray icon choose settings and choose "Launch Razer Synapses" under General.
+  Disable Splash Screen
+  Disable GPU Acceleration. 
+  Disable all notifications
+  Disable automatic updates and choose not to notify.
 
-Use TaskManager or Autoruns to disable startup and uncheck "Start when my PC boots" inside the app.
+## RGB less resource hog alternatives
 
-Use on-board memory and uninstall Razer Synapses.
+OpenRGB (Windows/Linux): https://openrgb.org/
 
+Aurora (Windows/Linux): https://www.project-aurora.com/
 
-## RGB lighter alternatives
-
-OpenRGB: https://openrgb.org/
-
-Aurora: https://www.project-aurora.com/
-
-OpenRazer: https://openrazer.github.io/
+OpenRazer (Linux): https://openrazer.github.io/
