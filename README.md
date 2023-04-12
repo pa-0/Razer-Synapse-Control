@@ -13,7 +13,7 @@ Run as admin.
 
 ## Suggestions
 
-Razer Synapses
+Razer Synapse
  - Only install Razer Synapse and uncheck everything else when installing.
  - Use a guest account unless you plan to use paid options like 7.1 surround sound.
  - Disable everything within the General and Dashboard options.
@@ -21,7 +21,7 @@ Razer Synapses
  - Use on-board memory and uninstall Razer Synapses if you don't need to change settings again.
   
 Razer Centeral
- - Right click the tray icon choose settings and choose "Launch Razer Synapses" under General.
+ - Right click the tray icon choose settings and choose "Launch Razer Synapse" under General.
  - Disable Splash Screen
  - Disable GPU Acceleration. 
  - Disable all notifications
