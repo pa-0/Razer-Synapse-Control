@@ -18,7 +18,7 @@ Razer Synapse
  - Use a guest account unless you plan to use paid options like 7.1 surround sound.
  - Disable everything within the General and Dashboard options.
  - Turn off all RGB.
- - Use on-board memory and uninstall Razer Synapses if you don't need to change settings again.
+ - Use on-board memory and uninstall Razer Synapse if you don't need to change settings again.
   
 Razer Centeral
  - Right click the tray icon choose settings and choose "Launch Razer Synapse" under General.
