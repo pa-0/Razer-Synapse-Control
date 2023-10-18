@@ -27,6 +27,8 @@ Razer Centeral
  - Disable all notifications
  - Disable automatic updates and choose not to notify.
 
+Consider using https://github.com/ChrisTitusTech/block-razer
+
 ## RGB less resource hog alternatives
 
 OpenRGB (Windows/Linux): https://openrgb.org/
